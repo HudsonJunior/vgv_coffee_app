@@ -14,7 +14,13 @@ I included unit tests for core functionality and additional integration tests fo
 
 I decided not to create abstractions since I didn’t see the necessary complexity for them, but I believe the structure is still robust enough.
 
-I really enjoyed working on this challenge and I’m looking forward to your feedback! :)
+I really enjoyed working on this challenge and I'm looking forward to your feedback! :)
+
+## Demo
+
+<video src="assets/demo_video.MP4" width="300" controls></video>
+
+> *If the video doesn't play, you can [download it here](assets/demo_video.MP4)*
 
 ## Features
 
