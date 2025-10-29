@@ -18,9 +18,9 @@ I really enjoyed working on this challenge and I'm looking forward to your feedb
 
 ## Demo
 
-📹 **[Watch Demo Video](./assets/demo_video.MP4)**
+<video src="assets/demo_video.MP4" width="300" controls></video>
 
-> Click the link above to view the application demo
+> *If the video doesn't play, you can [download it here](assets/demo_video.MP4)*
 
 ## Features
 
