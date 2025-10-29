@@ -17,10 +17,7 @@ I decided not to create abstractions since I didn’t see the necessary complexi
 I really enjoyed working on this challenge and I'm looking forward to your feedback! :)
 
 ## Demo
-
-📹 **[Watch Demo Video](./assets/demo_video.MP4)**
-
-> Click the link above to view the application demo
+https://github.com/user-attachments/assets/0d308546-2a6d-4f18-a21e-b8bfb195b207
 
 ## Features
 
